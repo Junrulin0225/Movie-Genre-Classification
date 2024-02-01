@@ -1,5 +1,5 @@
 #### Introduction
-Welcome to the **Netflix Genre Classification**🍿!
+Welcome to the **Netflix Genre Classification Project**🍿!
 
 After learning how broad NLP (Natural Language Processing) application is, what interests me the most is **text/document classification**. 
 My self-learning journey on this path is to collaborate the techniques I have been learning in the healthcare and medical field. 
